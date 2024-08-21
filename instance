@@ -1,0 +1,171 @@
+EC2
+Instances
+i-0071ed22226465912
+Instance summary for i-0071ed22226465912 (Prometheus) Info
+
+Connect
+Instance state
+Actions
+Updated less than a minute ago
+
+Instance ID
+
+i-0071ed22226465912 (Prometheus)
+Public IPv4 address
+–
+Private IPv4 addresses
+
+172.31.44.60
+IPv6 address
+–
+Instance state
+Stopped
+Public IPv4 DNS
+–
+Hostname type
+IP name: ip-172-31-44-60.ap-south-1.compute.internal
+Private IP DNS name (IPv4 only)
+
+ip-172-31-44-60.ap-south-1.compute.internal
+Answer private resource DNS name
+IPv4 (A)
+Instance type
+t2.micro
+Elastic IP addresses
+–
+Auto-assigned IP address
+–
+VPC ID
+
+vpc-00a5f6b267958850b 
+AWS Compute Optimizer finding
+Opt-in to AWS Compute Optimizer for recommendations.
+|
+Learn more 
+IAM Role
+–
+Subnet ID
+
+subnet-06d19ddfe296b2d76 
+Auto Scaling Group name
+–
+IMDSv2
+Required
+Instance ARN
+
+arn:aws:ec2:ap-south-1:058264325573:instance/i-0071ed22226465912
+
+Details
+
+Status and alarms
+
+Monitoring
+
+Security
+
+Networking
+
+Storage
+
+Tags
+Instance details
+Info
+Platform
+
+Red Hat (Inferred)
+AMI ID
+
+ami-022ce6f32988af5fa
+Monitoring
+disabled
+Platform details
+
+Red Hat Enterprise Linux
+AMI name
+
+RHEL-9.4.0_HVM-20240605-x86_64-82-Hourly2-GP3
+Termination protection
+Disabled
+Stop protection
+Disabled
+Launch time
+
+Wed Aug 21 2024 13:58:30 GMT+0530 (India Standard Time) (about 1 hour)
+AMI location
+
+amazon/RHEL-9.4.0_HVM-20240605-x86_64-82-Hourly2-GP3
+Instance auto-recovery
+Default
+Lifecycle
+normal
+Stop-hibernate behavior
+Disabled
+AMI Launch index
+1
+Key pair assigned at launch
+
+Boto
+State transition reason
+User initiated (2024-08-21 08:41:53 GMT)
+Credit specification
+standard
+Kernel ID
+–
+State transition message
+
+Client.UserInitiatedShutdown: User initiated shutdown
+Usage operation
+
+RunInstances:0010
+RAM disk ID
+–
+Owner
+
+058264325573
+Enclaves Support
+–
+Boot mode
+
+uefi-preferred
+Current instance boot mode
+
+legacy-bios
+Allow tags in instance metadata
+Disabled
+Use RBN as guest OS hostname
+
+Disabled
+Answer RBN DNS hostname IPv4
+
+Enabled
+Host and placement group
+Info
+Host ID
+–
+Affinity
+–
+Placement group
+–
+Host resource group name
+–
+Tenancy
+
+default
+Placement group ID
+–
+Virtualization type
+
+hvm
+Reservation
+
+r-0305c01dda58039e5
+Partition number
+–
+Number of vCPUs
+1
+Capacity reservation
+Info
+Capacity Reservation ID
+–
+Capacity Reservation setting
+open
